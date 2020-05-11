@@ -1,0 +1,1352 @@
+<localeBundle bundle="Display" key="Title_Login" modifyTime="2018-11-20T09:56:43Z">
+    <value>Please Sign in</value>
+    <value locale="cy">Mewngofnodwch</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_ActivateUser" modifyTime="2018-11-20T10:11:17Z">
+    <value>Activate a pre-configured account and establish a new password.</value>
+    <value locale="cy">Actifadu cyfrif wedi'i ffurfweddu ymlaen llaw a sefydlu cyfrinair newydd.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Days" modifyTime="2018-11-19T16:23:46Z">
+    <value>days</value>
+    <value locale="cy">diwrnod</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_IdleWarningTitle" modifyTime="2018-11-20T09:15:46Z">
+    <value>Idle Timeout</value>
+    <value locale="cy">Terfyn Amser Segur</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Logout" modifyTime="2018-11-20T09:56:49Z">
+    <value>Sign out</value>
+    <value locale="cy">Allgofnodi</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_RecoverPassword" modifyTime="2018-11-19T16:09:07Z">
+    <value>Check Answers</value>
+    <value locale="cy">Gwirio Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Success" modifyTime="2018-11-20T10:01:45Z">
+    <value>Success</value>
+    <value locale="cy">Llwyddiant</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ForgottenUsername" modifyTime="2018-11-20T09:13:16Z">
+    <value>Please type in the following information.  This information will be used to lookup your forgotten user name.</value>
+    <value locale="cy">Teipiwch yr wybodaeth ganlynol. Caiff yr wybodaeth hon ei defnyddio i gael hyd i'r enw defnyddiwr rydych wedi'i anghofio.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_RecoverChoiceReset" modifyTime="2018-11-19T16:30:21Z">
+    <value>Set a new password.  If you have forgotten your password and would like to set a new one, click here.  Your account will also be unlocked when you set a new password.</value>
+    <value locale="cy">Gosod cyfrinair newydd. Os ydych wedi anghofio'ch cyfrinair a hoffech osod cyfrinair newydd, cliciwch yma. Bydd eich cyfrif hefyd yn cael ei ddatgloi pan fyddwch yn gosod cyfrinair newydd.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Hide_Responses" modifyTime="2018-11-19T16:08:32Z">
+    <value>Hide Responses</value>
+    <value locale="cy">Cuddio Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_More" modifyTime="2018-11-19T16:08:57Z">
+    <value>More</value>
+    <value locale="cy">Rhagor</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_UserEventHistory" modifyTime="2018-11-20T10:02:28Z">
+    <value>Password History</value>
+    <value locale="cy">Hanes Cyfrineiriau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_Helpdesk" modifyTime="2018-11-20T10:12:20Z">
+    <value>Help Desk tools</value>
+    <value locale="cy">Offer desg gymorth</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_ResponsesNeeded" modifyTime="2018-11-20T10:04:51Z">
+    <value>Response Updates are Needed</value>
+    <value locale="cy">Mae Angen Diweddaru Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CaptchaInputNumbers" modifyTime="2018-11-19T16:14:04Z">
+    <value>Enter the numbers you hear</value>
+    <value locale="cy">Rhowch y rhifau rydych yn eu clywed</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Option_Select" modifyTime="2018-11-20T09:51:47Z">
+    <value>Select a question</value>
+    <value locale="cy">Dewis cwestiwn</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordStrengthMedium" modifyTime="2018-11-19T16:29:01Z">
+    <value>Strength: &lt;b&gt;Good&lt;/b&gt;</value>
+    <value locale="cy">Cryfder: &lt;b&gt;Da&lt;/b&gt;</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_UnlockPassword" modifyTime="2018-11-19T16:11:36Z">
+    <value>Unlock Password</value>
+    <value locale="cy">Datgloi Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_CurrentPassword" modifyTime="2018-11-20T09:23:57Z">
+    <value>Current Password</value>
+    <value locale="cy">Cyfrinair Presennol</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Update" modifyTime="2018-11-19T16:11:47Z">
+    <value>Update</value>
+    <value locale="cy">Diweddaru</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Hide" modifyTime="2018-11-19T16:08:05Z">
+    <value>Hide</value>
+    <value locale="cy">Cuddio</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_GuestRegistration" modifyTime="2018-11-20T09:13:53Z">
+    <value>To register a new guest account, please enter the following information.</value>
+    <value locale="cy">I gofrestru cyfrif gwadd newydd, rhowch yr wybodaeth ganlynol.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Confirm" modifyTime="2018-11-19T16:07:13Z">
+    <value>Confirm</value>
+    <value locale="cy">Cadarnhau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_ChangePassword" modifyTime="2018-11-20T10:11:32Z">
+    <value>Change your current password.</value>
+    <value locale="cy">Newid eich cyfrinair presennol.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ConfirmResponses" modifyTime="2018-11-19T16:23:18Z">
+    <value>Be sure your answers and questions are correct.  Check the spelling and punctuation.  In you are unable to remember your password, you will be able to access your account by supplying the answers to these security questions.</value>
+    <value locale="cy">Gwnewch yn siwr bod eich atebion a'r cwestiynau'n gywir. Gwiriwch y sillafu a'r atalnodi. Os byddwch yn anghofio'ch cyfrinair, bydd rhaid i chi deipio'r atebion cywir i'r cwestiynau isod.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_NewUser" modifyTime="2018-11-20T10:12:51Z">
+    <value>Create a new user account.</value>
+    <value locale="cy">Creu cyfrif defnyddiwr newydd.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PleaseWait" modifyTime="2018-11-20T09:58:10Z">
+    <value>Please Wait</value>
+    <value locale="cy">Arhoswch</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordSetTime" modifyTime="2018-11-20T10:04:18Z">
+    <value>Password Set Time</value>
+    <value locale="cy">Amser Gosod Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_Main_Menu" modifyTime="2018-11-20T10:12:45Z">
+    <value>Password self-service main menu. From here you can change your current password, reset a forgotten password, or perform other related password activities.</value>
+    <value locale="cy">Prif ddewislen yr hunanwasanaeth cyfrinair. Yma, gallwch newid eich cyfrinair presennol, ailosod cyfrinair rydych wedi'i anghofio, neu berfformio gweithredoedd cyfrineiriau cysylltiedig eraill.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_LocaleSelect" modifyTime="2018-11-20T09:56:25Z">
+    <value>Locale Selection</value>
+    <value locale="cy">Dewis Locale</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Captcha" modifyTime="2018-11-20T09:54:57Z">
+    <value>Verification</value>
+    <value locale="cy">Gwireddu</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Hour" modifyTime="2018-11-20T09:14:53Z">
+    <value>hour</value>
+    <value locale="cy">awr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordGeneration" modifyTime="2018-11-20T09:18:13Z">
+    <value>The following passwords have been randomly generated for you.  These passwords are based on real words to make them easier to remember, but have been modified to make them difficult to guess.</value>
+    <value locale="cy">Mae'r cyfrineiriau canlynol wedi cael eu cynhyrchu ar hap i chi. Mae'r cyfrineiriau hyn yn seiliedig ar eiriau go iawn i'w gwneud yn haws i'w cofio, ond maen nhw wedi cael eu haddasu i'w gwneud yn anodd i'w dyfalu.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_Shortcuts" modifyTime="2018-11-20T09:53:25Z">
+    <value>Personalized shortcuts.</value>
+    <value locale="cy">Personalized shortcuts.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CaptchaGetImage" modifyTime="2018-11-19T16:13:53Z">
+    <value>Get an image CAPTCHA</value>
+    <value locale="cy">Cael delwedd CAPTCHA</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_SecurityResponses" modifyTime="2018-11-20T09:58:51Z">
+    <value>Security Responses</value>
+    <value locale="cy">Ymatebion Diogelwch</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_AccountEnabled" modifyTime="2018-11-20T09:22:57Z">
+    <value>Account Enabled</value>
+    <value locale="cy">Cyfrif wedi'i Alluogi</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Minutes" modifyTime="2018-11-20T09:16:45Z">
+    <value>minutes</value>
+    <value locale="cy">munud</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_StrengthMeter" modifyTime="2018-11-20T09:20:41Z">
+    <value>Password Strength</value>
+    <value locale="cy">Cryfder Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_ForgottenUsername" modifyTime="2018-11-20T10:11:59Z">
+    <value>Find your forgotten user name.</value>
+    <value locale="cy">Dod o hyd i'ch enw defnyddiwr rydych wedi'i anghofio.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ShowPasswordGuide" modifyTime="2018-11-20T09:20:37Z">
+    <value>Password Guide</value>
+    <value locale="cy">Canllaw Cyfrineiriau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Location" modifyTime="2018-11-20T09:24:11Z">
+    <value>Location</value>
+    <value locale="cy">Lleoliad</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_InvalidVerification" modifyTime="2018-11-20T09:16:05Z">
+    <value>Viewing details only available after a user has been successfully verified</value>
+    <value locale="cy">Os byddwch yn gadael y dudalen hon, ni chaiff eich cyfrinair ei newid.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_PeopleSearch" modifyTime="2018-11-20T09:52:55Z">
+    <value>Lookup contact information for your colleagues.</value>
+    <value locale="cy">Chwilio gwybodaeth gyswllt eich cydweithwyr.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Username" modifyTime="2018-11-20T10:11:00Z">
+    <value>User Name</value>
+    <value locale="cy">Enw Defnyddiwr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Login" modifyTime="2018-11-19T16:08:46Z">
+    <value>Sign in</value>
+    <value locale="cy">Mewngofnodi</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Cancel" modifyTime="2018-11-19T16:06:33Z">
+    <value>Cancel</value>
+    <value locale="cy">Dwi'n cytuno</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PasswordPolicy" modifyTime="2018-11-20T09:57:39Z">
+    <value>Password Policy</value>
+    <value locale="cy">Polisi Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_UserEventHistory" modifyTime="2018-11-20T09:22:05Z">
+    <value>This page shows your password event history. Only actions performed with this application are shown here. All times listed are in the %1% timezone.</value>
+    <value locale="cy">Mae'r dudalen hon yn dangos eich hanes digwyddiadau cyfrinair. Dim ond gweithredoedd a wneir gyda'r cymhwysiad hwn sy'n cael eu dangos yma. Mae'r holl amserau a restrir yn y parth amser %1%.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Hours" modifyTime="2018-11-20T09:14:57Z">
+    <value>hours</value>
+    <value locale="cy">awr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ErrorBody" modifyTime="2018-11-19T16:24:05Z">
+    <value>An error has occurred. Please close your browser and try again later.  If this error occurs repeatedly, please contact your help desk.</value>
+    <value locale="cy">Mae gwall wedi digwydd. Caewch eich porwr a cheisio eto nes ymlaen. Os yw'r gwall hwn yn digwydd dro ar ôl tro, cysylltwch â'ch desg gymorth.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_UserEventHistory" modifyTime="2018-11-20T09:53:44Z">
+    <value>Password event history.  See when you have changed your password in the past.</value>
+    <value locale="cy">Hanes digwyddiadau cyfrinair. Gweld pryd rydych wedi newid eich cyfrinair yn y gorffennol.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_ForgottenPassword" modifyTime="2018-11-20T10:11:51Z">
+    <value>Regain access to your account if you have forgotten your password.</value>
+    <value locale="cy">Adennill mynediad i'ch cyfrif os ydych wedi anghofio'ch cyfrinair.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_RecoverPassword" modifyTime="2018-11-20T09:58:29Z">
+    <value>Forgotten Password</value>
+    <value locale="cy">Wedi Anghofio Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PleaseWaitPassword" modifyTime="2018-11-19T16:30:06Z">
+    <value>Your password is being changed. This process may take several minutes, please be patient.</value>
+    <value locale="cy">Mae'ch cyfrinair yn cael ei newid. Gall y broses hon gymryd sawl munud, byddwch yn amyneddgar.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Show_Responses" modifyTime="2018-11-19T16:10:11Z">
+    <value>Show Responses</value>
+    <value locale="cy">Dangos Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PasswordWarning" modifyTime="2018-11-20T09:57:48Z">
+    <value>Password Warning</value>
+    <value locale="cy">Rhybudd Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Minute" modifyTime="2018-11-20T09:16:43Z">
+    <value>minute</value>
+    <value locale="cy">munud</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_ConfirmPassword" modifyTime="2018-11-20T09:23:47Z">
+    <value>Confirm Password</value>
+    <value locale="cy">Cadarnhau Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_UserInformation" modifyTime="2018-11-20T09:54:12Z">
+    <value>Information about your password and password policies.</value>
+    <value locale="cy">Gwybodaeth am eich cyfrinair a pholisïau cyfrinair.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_LoginPasswordOnly" modifyTime="2018-11-20T09:16:16Z">
+    <value>Please enter your password below.  Your current password is required to access this application.</value>
+    <value locale="cy">Rhowch eich cyfrinair isod. Mae angen eich cyfrinair presennol i gael mynediad i'r cymwysiad hwn.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PasswordGuide" modifyTime="2018-11-20T09:57:34Z">
+    <value>Password Guide</value>
+    <value locale="cy">Canllaw Cyfrineiriau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Password" modifyTime="2018-11-20T09:52:12Z">
+    <value>Password</value>
+    <value locale="cy">Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_UpdateProfile" modifyTime="2018-11-20T09:21:04Z">
+    <value>Please update the following information:</value>
+    <value locale="cy">Diweddarwch yr wybodaeth ganlynol:</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CheckingResponses" modifyTime="2018-11-19T16:22:48Z">
+    <value>Checking Answers....</value>
+    <value locale="cy">Wrthi'n gwirio Atebion....</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Reset" modifyTime="2018-11-19T16:09:11Z">
+    <value>Clear</value>
+    <value locale="cy">Clirio</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Unlock" modifyTime="2018-11-19T16:10:32Z">
+    <value>Unlock</value>
+    <value locale="cy">Datgloi</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordPreExpired" modifyTime="2018-11-20T10:04:11Z">
+    <value>Password Pre-Expired</value>
+    <value locale="cy">Cyfrinair wedi Dod i Ben Ymlaen Llaw</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Value_False" modifyTime="2018-11-20T10:03:32Z">
+    <value>False</value>
+    <value locale="cy">ANGHYWIR</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_Admin" modifyTime="2018-11-20T10:11:26Z">
+    <value>Administrative functions</value>
+    <value locale="cy">Swyddogaethau gweinyddol</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_ForgottenPassword" modifyTime="2018-11-20T09:55:39Z">
+    <value>Forgotten Password</value>
+    <value locale="cy">Wedi Anghofio Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_NewPassword" modifyTime="2018-11-20T09:51:37Z">
+    <value>New Password</value>
+    <value locale="cy">Cyfrinair Newydd</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Helpdesk" modifyTime="2018-11-20T09:56:17Z">
+    <value>Help Desk</value>
+    <value locale="cy">Desg Gymorth</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_GuestUpdate" modifyTime="2018-11-20T09:14:20Z">
+    <value>To update a guest account, please check and modify the following information.</value>
+    <value locale="cy">I ddiweddaru cyfrif gwadd, gwiriwch ac addaswch yr wybodaeth ganlynol.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_ChangeResponses" modifyTime="2018-11-19T16:06:47Z">
+    <value>Go Back</value>
+    <value locale="cy">Mynd yn ôl</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_GuestUpdate" modifyTime="2018-11-20T09:56:02Z">
+    <value>Update Guest User</value>
+    <value locale="cy">Diweddaru Defnyddiwr Gwadd</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_MainPage" modifyTime="2018-11-20T09:57:16Z">
+    <value>Main Menu</value>
+    <value locale="cy">Prif Ddewislen</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CaptchaRefresh" modifyTime="2018-11-19T16:15:14Z">
+    <value>Refresh</value>
+    <value locale="cy">Diweddaru</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Create" modifyTime="2018-11-19T16:07:38Z">
+    <value>Create</value>
+    <value locale="cy">Creu</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CheckingPassword" modifyTime="2018-11-19T16:22:25Z">
+    <value>Checking Password....</value>
+    <value locale="cy">Wrthi'n gwirio Cyfrinair....</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PeopleSearch" modifyTime="2018-11-19T16:29:30Z">
+    <value>Please type your search query below.  You may search for a person based on name, email address or telephone number.</value>
+    <value locale="cy">Teipiwch eich ymholiad chwilio isod. Gallwch chwilio am unigolyn yn seiliedig ar enw, cyfeiriad e-bost neu rif ffôn.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordWarn" modifyTime="2018-11-19T16:29:11Z">
+    <value>&lt;b&gt;Your password will soon expire&lt;/b&gt;.  Please change your password soon to avoid problems accessing this service.  &lt;br/&gt;&lt;br/&gt;Your password will expire on %1%.</value>
+    <value locale="cy">&lt;b&gt;Bydd eich cyfrinair yn dod i ben yn fuan&lt;/b&gt;. Newidiwch eich cyfrinair yn fuan i osgoi problemau wrth ddefnyddio'r gwasanaeth hwn. &lt;br/&gt;&lt;br/&gt;Bydd eich cyfrinair yn dod i ben ar %1%.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PasswordStrength" modifyTime="2018-11-20T09:57:43Z">
+    <value>Password Strength</value>
+    <value locale="cy">Crydfder Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_CheckCode" modifyTime="2018-11-19T16:06:53Z">
+    <value>Check Code</value>
+    <value locale="cy">Gwirio Cod</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordStrengthLow" modifyTime="2018-11-19T16:28:56Z">
+    <value>Strength: &lt;b&gt;Weak&lt;/b&gt;</value>
+    <value locale="cy">Cryfder: &lt;b&gt;Gwan&lt;/b&gt;</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Error" modifyTime="2018-11-20T09:55:33Z">
+    <value>Error</value>
+    <value locale="cy">Gwall</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PleaseWaitNewUser" modifyTime="2018-11-19T16:29:54Z">
+    <value>Your new account is being configured. This process may take several minutes, please be patient.</value>
+    <value locale="cy">Mae'ch cyfrif newydd yn cael ei ffurfweddu. Gall y broses hon gymryd sawl munud, byddwch yn amyneddgar.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_UserGUID" modifyTime="2018-11-20T10:10:52Z">
+    <value>User GUID</value>
+    <value locale="cy">GUID Defnyddiwr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ForgottenPassword" modifyTime="2018-11-20T09:12:46Z">
+    <value>If you have forgotten your password, follow the prompts to reset your password.</value>
+    <value locale="cy">Os ydych wedi anghofio'ch cyfrinair, dilynwch yr awgrymiadau i ailosod eich cyfrinair.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Search" modifyTime="2018-11-19T16:09:18Z">
+    <value>Search</value>
+    <value locale="cy">Chwilio</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Code" modifyTime="2018-11-20T09:23:32Z">
+    <value>Code</value>
+    <value locale="cy">Cod</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Value_True" modifyTime="2018-11-20T10:03:42Z">
+    <value>True</value>
+    <value locale="cy">CYWIR</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Agree" modifyTime="2018-11-19T16:06:27Z">
+    <value>I Agree</value>
+    <value locale="cy">Dwi'n cytuno</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_UpdateProfileConfirm" modifyTime="2018-11-20T09:21:42Z">
+    <value>Please review the following information you have entered and confirm.</value>
+    <value locale="cy">Adolygwch yr wybodaeth ganlynol rydych wedi'i rhoi a chadarnhau.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_ChangePassword" modifyTime="2018-11-19T16:06:40Z">
+    <value>Change Password</value>
+    <value locale="cy">Newid Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ChangePassword" modifyTime="2018-11-19T16:21:58Z">
+    <value>Please change your password. Keep your new password secure.  After you type your new password, click the Change Password button.  If you must write it down, be sure to keep it in a safe place.  Your new password must meet the following requirements:</value>
+    <value locale="cy">Newidiwch eich cyfrinair. Cadwch eich cyfrinair newydd yn ddiogel. Ar ôl teipio'ch cyfrinair newydd, cliciwch y botwm Newid Cyfrinair. Os oes rhaid i chi ei ysgrifennu, cofiwch ei gadw mewn lle diogel. Rhaid i'ch cyfrinair newydd ddiwallu'r gofynion canlynol...</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CaptchaGetAudio" modifyTime="2018-11-19T16:13:44Z">
+    <value>Get an audio CAPTCHA</value>
+    <value locale="cy">Cael CAPTCHA sain</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_SetupHelpdeskResponses" modifyTime="2018-11-20T09:19:42Z">
+    <value>&lt;p&gt;Your administrator requires that you supply the following answers.  These answers are used to verify your identity in the event that you contact your help desk for assistance.&lt;/p&gt;</value>
+    <value locale="cy">&lt;p&gt;Mae'ch gweinydd yn gofyn i chi roi'r atebion canlynol. Defnyddir yr atebion hyn i wirio pwy ydych os byddwch yn cysylltu â'ch desg gymorth am gymorth.&lt;/p&gt;</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Shortcuts" modifyTime="2018-11-20T09:20:14Z">
+    <value>Select any of the following links to continue.</value>
+    <value locale="cy">Dewiwch unrhyw un o'r dolenni canlynol i barhau.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Verify" modifyTime="2018-11-19T16:12:07Z">
+    <value>Verify</value>
+    <value locale="cy">Gwireddu</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Tooltip_PasswordStrength" modifyTime="2018-11-20T10:03:14Z">
+    <value>The password strength meter shows how easy it is to guess your password. Try the following to make your password stronger:&lt;ul&gt;&lt;li&gt;Make the password longer&lt;/li&gt;&lt;li&gt;Do not repeat letters or numbers&lt;/li&gt;&lt;li&gt;Use mixed (upper and lower) case letters&lt;/li&gt;&lt;li&gt;Add more numbers&lt;/li&gt;&lt;li&gt;Add more symbol characters&lt;/li&gt;&lt;/ul&gt;</value>
+    <value locale="cy">Mae'r mesurydd cryfder cyfrinair yn dangos pa mor hawdd yw hi i ddyfalu'ch cyfrinair. Rhowch gynnig ar y canlynol i wneud eich cyfrinair yn gryfach:&lt;ul&gt;&lt;li&gt;Gwnewch y cyfrinair yn hwy&lt;/li&gt;&lt;li&gt;Peidiwch ag ailadrodd llythrennau neu rifau&lt;/li&gt;&lt;li&gt;Defnyddiwch gymysgedd o lythrennau (mawr a bach)...</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ExpirationDate" modifyTime="2018-11-20T09:12:20Z">
+    <value>Account expiration date (maximum %1% days)</value>
+    <value locale="cy">Dyddiad dod i ben y cyfrif (uchafswm %1% diwrnod)</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordExpired" modifyTime="2018-11-20T09:17:43Z">
+    <value>Your password has expired.  You must set a new password now.</value>
+    <value locale="cy">Mae'ch cyfrinair wedi dod i ben. Rhaid i chi osod cyfrinair newydd nawr.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_CloseWindow" modifyTime="2018-11-19T16:07:05Z">
+    <value>Close Window</value>
+    <value locale="cy">Cau Ffenestr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Activate" modifyTime="2018-11-19T16:06:20Z">
+    <value>Activate</value>
+    <value locale="cy">Actifadu</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_RecoverRandomResponses" modifyTime="2018-11-20T09:58:34Z">
+    <value>Random Questions</value>
+    <value locale="cy">Cwestiynau Ar Hap</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordPrompt" modifyTime="2018-11-20T09:18:56Z">
+    <value>Please type your new password</value>
+    <value locale="cy">Teipiwch eich cyfrinair newydd</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_ResponsesTimestamp" modifyTime="2018-11-20T10:10:39Z">
+    <value>Stored Responses Timestamp</value>
+    <value locale="cy">Stamp Amser Ymatebion Wedi'i Gadw</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordViolatesPolicy" modifyTime="2018-11-20T10:04:34Z">
+    <value>Violates Password Policy</value>
+    <value locale="cy">Torri Polisi Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_GuestUpdate" modifyTime="2018-11-20T10:12:13Z">
+    <value>Update a new guest user account.</value>
+    <value locale="cy">Diweddaru cyfrif defnyddiwr gwadd newydd.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_IdleTimeout" modifyTime="2018-11-20T09:15:24Z">
+    <value>Idle Timeout:</value>
+    <value locale="cy">Terfyn Amser Segur:</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_SetupRequiredResponses" modifyTime="2018-11-20T10:00:29Z">
+    <value>Required Questions</value>
+    <value locale="cy">Cwestiynau Gofynnol</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_TypingWait" modifyTime="2018-11-20T09:20:53Z">
+    <value>Waiting for typing to complete....</value>
+    <value locale="cy">Wrthi'n aros i chi gwblhau teipio....</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_RandomPasswords" modifyTime="2018-11-20T09:58:17Z">
+    <value>Random Passwords</value>
+    <value locale="cy">Cyfrineiriau Ar Hap</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Admin" modifyTime="2018-11-20T09:54:24Z">
+    <value>Administration</value>
+    <value locale="cy">Gweinyddu</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_SetResponses" modifyTime="2018-11-19T16:09:24Z">
+    <value>Save Answers</value>
+    <value locale="cy">Cadw Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Logout" modifyTime="2018-11-19T16:08:52Z">
+    <value>Sign out</value>
+    <value locale="cy">Allgofnodi</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_NewUser" modifyTime="2018-11-20T09:17:16Z">
+    <value>To register a new account, please complete the following form.</value>
+    <value locale="cy">I gofrestru cyfrif newydd, llenwch y ffurflen ganlynol.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CapsLockIsOn" modifyTime="2018-11-19T16:13:11Z">
+    <value>CAPS LOCK is on</value>
+    <value locale="cy">Mae'r clo CAPS ymlaen</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordSetTimeDelta" modifyTime="2018-11-20T10:04:24Z">
+    <value>Password Set Time Delta</value>
+    <value locale="cy">Delta Amser Gosod Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ActivateUser" modifyTime="2018-11-19T16:12:57Z">
+    <value>To confirm your identity, please enter the following information. Your information will be used to locate and activate your user account.&lt;p/&gt;Be sure to complete the process, or your account will not be activated properly.</value>
+    <value locale="cy">I gadarnhau pwy ydych, rhowch yr wybodaeth ganlynol. Caiff eich gwybodaeth ei defnyddio i leoli ac actifadu'ch cyfrif defnyddiwr.&lt;p/&gt;Cofiwch gwblhau'r broses, neu ni chaiff eich cyfrif ei actifadu'n iawn.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_UserDN" modifyTime="2018-11-20T10:10:44Z">
+    <value>User DN</value>
+    <value locale="cy">DN Defnyddiwr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordLocked" modifyTime="2018-11-20T10:04:00Z">
+    <value>Password Locked (Intruder Detect)</value>
+    <value locale="cy">Cyfrinair wedi'i Gloi (Canfod Tresmaswr)</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Show" modifyTime="2018-11-19T16:10:05Z">
+    <value>Show</value>
+    <value locale="cy">Dangos</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_UpdateProfile" modifyTime="2018-11-20T10:02:00Z">
+    <value>Update Profile</value>
+    <value locale="cy">Diweddaru Proffil</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_ForgottenUsername" modifyTime="2018-11-20T09:55:42Z">
+    <value>Forgotten User Name</value>
+    <value locale="cy">Wedi Anghofio Enw Defnyddiwr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordExpirationTime" modifyTime="2018-11-20T09:52:28Z">
+    <value>Password Expiration Time</value>
+    <value locale="cy">Amser Dod i Ben y Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ClientDisconnect" modifyTime="2018-11-19T16:23:00Z">
+    <value>Unable to communicate with server.</value>
+    <value locale="cy">Ddim yn gallu cyfathrebu â'r gweinydd. Parhau pan fydd yn barod.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Home" modifyTime="2018-11-19T16:08:38Z">
+    <value>Home</value>
+    <value locale="cy">Hafan</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_GoBack" modifyTime="2018-11-19T16:07:58Z">
+    <value>Go Back</value>
+    <value locale="cy">Mynd yn ôl</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_UpdateProfile" modifyTime="2018-11-20T09:53:34Z">
+    <value>Update your user profile data.</value>
+    <value locale="cy">Diweddaru eich data proffil defnyddiwr.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_Confirm_Prefix" modifyTime="2018-11-20T09:23:52Z">
+    <value>Confirm</value>
+    <value locale="cy">Cadarnhau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Day" modifyTime="2018-11-19T16:23:43Z">
+    <value>day</value>
+    <value locale="cy">diwrnod</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_RecoverRequiredResponses" modifyTime="2018-11-20T09:58:44Z">
+    <value>Required Questions</value>
+    <value locale="cy">Cwestiynau Gofynnol</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_OK" modifyTime="2018-11-19T16:09:01Z">
+    <value>OK</value>
+    <value locale="cy">Iawn</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_ActivateUser" modifyTime="2018-11-20T09:54:18Z">
+    <value>Activate Account</value>
+    <value locale="cy">Actifadu Cyfrif</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_AutoGeneratedPassword" modifyTime="2018-11-19T16:13:05Z">
+    <value>Auto-generate a new password</value>
+    <value locale="cy">Awto-gynhyrchu cyfrinair newydd</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_SetupRandomResponses" modifyTime="2018-11-20T10:00:21Z">
+    <value>Random Questions</value>
+    <value locale="cy">Cwestiynau Ar Hap</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_PeopleSearch" modifyTime="2018-11-20T09:57:54Z">
+    <value>People Search</value>
+    <value locale="cy">Chwilio am Bobl</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CaptchaHelp" modifyTime="2018-11-19T16:13:59Z">
+    <value>Help</value>
+    <value locale="cy">Help</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_ResponsesStored" modifyTime="2018-11-20T10:10:30Z">
+    <value>Responses Stored</value>
+    <value locale="cy">Ymatebion wedi'u Cadw</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_UpdateProfileConfirm" modifyTime="2018-11-20T10:02:17Z">
+    <value>Confirm Profile Data</value>
+    <value locale="cy">Cadarnhau Data Proffil</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_Shortcuts" modifyTime="2018-11-20T10:01:39Z">
+    <value>Shortcuts</value>
+    <value locale="cy">Llwybrau Byr</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordWithinWarningPeriod" modifyTime="2018-11-20T10:04:43Z">
+    <value>Within Warning Period</value>
+    <value locale="cy">O Fewn y Cyfnod Rhybudd</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Button_Continue" modifyTime="2018-11-19T16:07:22Z">
+    <value>Continue</value>
+    <value locale="cy">Parhau</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_Random" modifyTime="2018-11-19T16:30:11Z">
+    <value>Random</value>
+    <value locale="cy">Ar Hap</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_ChangePasswordForm" modifyTime="2018-11-19T16:22:12Z">
+    <value>Please enter the following data.  This is required to verify your identity before you can change your password.</value>
+    <value locale="cy">Rhowch y data canlynol. Mae hyn yn ofynnol i wireddu pwy ydych cyn y gallwch newid eich cyfrinair.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_PasswordNoExpire" modifyTime="2018-11-20T09:18:33Z">
+    <value>Your password does not expire.</value>
+    <value locale="cy">Nid yw'ch cyfrinair yn dod i ben.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_User_Supplied_Question" modifyTime="2018-11-20T10:10:57Z">
+    <value>Question</value>
+    <value locale="cy">Cwestiwn</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Long_Title_GuestRegistration" modifyTime="2018-11-20T10:12:08Z">
+    <value>Register a new guest user account.</value>
+    <value locale="cy">Cofrestru cyfrif defnyddiwr gwadd newydd.</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Title_ChangePassword" modifyTime="2018-11-20T09:55:09Z">
+    <value>Change Password</value>
+    <value locale="cy">Newid Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Field_PasswordExpired" modifyTime="2018-11-20T09:52:35Z">
+    <value>Password Expired</value>
+    <value locale="cy">Cyfrinair wedi Dod i Ben</value>
+</localeBundle>
+<localeBundle bundle="Display" key="Display_CheckingData" modifyTime="2018-11-19T16:22:20Z">
+    <value>Checking Data....</value>
+    <value locale="cy">Wrthi'n gwirio Data....</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Challenge_Duplicate" modifyTime="2018-11-19T14:57:44Z">
+    <value>Each question must be unique.</value>
+    <value locale="cy">Rhaid i bob cwestiwn fod yn unigryw.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ServiceUnreachable" modifyTime="2018-11-19T15:13:54Z">
+    <value>A required service is unavailable.  Please try again later.</value>
+    <value locale="cy">Nid yw un o'r gwasanaethau gofynnol ar gael. Ceisiwch eto nes ymlaen.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Missing_GUID" modifyTime="2018-11-19T15:04:08Z">
+    <value>Unable to locate a GUID for user.  Please contact your administrator.</value>
+    <value locale="cy">Methu â lleoli GUID ar gyfer y defnyddiwr. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Response_TooLong" modifyTime="2018-11-19T15:12:30Z">
+    <value>The response for question "%1%" is too long</value>
+    <value locale="cy">Mae'r ymateb i gwestiwn "%1%" yn rhy hir</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_InvalidChar" modifyTime="2018-11-19T15:36:14Z">
+    <value>New password has an invalid character</value>
+    <value locale="cy">Mae gan y cyfrinair newydd gymeriad annilys</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughSpecial" modifyTime="2018-11-19T15:40:35Z">
+    <value>New password does not have enough symbol (non alpha-numeric) characters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o gymeriadau symbol (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_InWordlist" modifyTime="2018-11-19T15:36:01Z">
+    <value>New password is too common</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn rhy gyffredin</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooSoon" modifyTime="2018-11-19T15:44:25Z">
+    <value>Not enough time has passed since last password change</value>
+    <value locale="cy">Nis oes digon o amser wedi mynd heibio ers newid y cyfrinair diwethaf</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_WrongPassword" modifyTime="2018-11-19T15:31:24Z">
+    <value>The user name or password is not valid.  Please try again.</value>
+    <value locale="cy">Nid yw'r enw defnyddiwr neu'r cyfrinair yn ddilys. Ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_MissingRequiredResponse" modifyTime="2018-11-19T15:03:42Z">
+    <value>Please type all of the required responses.</value>
+    <value locale="cy">Teipiwch yr holl ymatebion gofynnol.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldTooShort" modifyTime="2018-11-19T15:00:49Z">
+    <value>%1% is too short</value>
+    <value locale="cy">Mae %1% yn rhy fyr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigUploadSuccess" modifyTime="2018-11-19T14:59:13Z">
+    <value>File uploaded successfully</value>
+    <value locale="cy">Ffeil wedi'i lanlwytho'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_UserAuthenticated" modifyTime="2018-11-19T15:22:00Z">
+    <value>You are already authenticated.</value>
+    <value locale="cy">Rydych eisoes wedi'ch dilysu.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_Missing" modifyTime="2018-11-19T15:37:58Z">
+    <value>Password missing</value>
+    <value locale="cy">Cyfrinair yn eisiau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManySpecial" modifyTime="2018-11-19T15:44:00Z">
+    <value>New password has too many special (non letter or number) characters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o gymeriadau arbennig (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_SyslogWriteError" modifyTime="2018-11-19T15:15:29Z">
+    <value>A problem writing to the syslog server has been encountered, error: %1%</value>
+    <value locale="cy">Mae problem wedi codi wrth ysgrifennu i'r gweinydd syslog, gwall: %1%</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_HTTP_404" modifyTime="2018-11-19T15:00:59Z">
+    <value>The page you requested could not be found.</value>
+    <value locale="cy">Nid oes modd dod o hyd i'r dudalen rydych wedi gofyn amdani.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Unauthorized" modifyTime="2018-11-19T15:17:53Z">
+    <value>You do not have permission to perform the requested action.</value>
+    <value locale="cy">Nid oes caniatâd gennych i berfformio'r weithred y gofynnwyd amdani.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_MeetsRules" modifyTime="2018-11-19T15:37:49Z">
+    <value>New password accepted, please click change password</value>
+    <value locale="cy">Cyfrinair newydd wedi'i dderbyn, cliciwch newid cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_DirectoryUnavailable" modifyTime="2018-11-19T14:59:43Z">
+    <value>Directory unavailable.  If this error occurs repeatedly please contact your help desk.</value>
+    <value locale="cy">Nid yw'r cyfeiriadur ar gael. Os yw'r gwall hwn yn codi dro ar ôl tro cysylltwch â'ch desg gymorth.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigUploadFailure" modifyTime="2018-11-19T14:59:08Z">
+    <value>File failed to upload.</value>
+    <value locale="cy">Ffeil wedi methu â lanlwytho.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Closing" modifyTime="2018-11-19T14:58:30Z">
+    <value>The operation can not complete because the application is shutting down.</value>
+    <value locale="cy">Nid oes modd cwblhau'r gweithrediad oherwydd mae'r cymhwysiad yn cau i lawr.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_BadSessionPassword" modifyTime="2018-11-19T14:56:56Z">
+    <value>Unable to establish session password.</value>
+    <value locale="cy">Methu â sefydlu cyfrinair sesiwn.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_AuthenticationRequired" modifyTime="2018-11-19T14:55:39Z">
+    <value>Authentication required.</value>
+    <value locale="cy">Angen dilysiad.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_BadCaptchaResponse" modifyTime="2018-11-19T14:55:54Z">
+    <value>Incorrect verification code, please try again.</value>
+    <value locale="cy">Cod gwirio anghywir, ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_LastIsSpecial" modifyTime="2018-11-19T15:37:07Z">
+    <value>The last character must not be a symbol (non alpha-numeric) character</value>
+    <value locale="cy">Ni ddylai'r cymeriad olaf fod yn gymeriad symbol (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_BadSession" modifyTime="2018-11-19T14:56:41Z">
+    <value>Unable to establish a session with your browser.  Please close your browser and try again.</value>
+    <value locale="cy">Methu â sefydlu sesiwn gyda'ch porwr. Caewch eich porwr a cheisio eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_FirstIsSpecial" modifyTime="2018-11-19T15:32:41Z">
+    <value>The first character must not be a symbol (non alpha-numeric) character</value>
+    <value locale="cy">Ni ddylai'r cymeriad cyntaf fod yn gymeriad symbol (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyRepeat" modifyTime="2018-11-19T15:43:50Z">
+    <value>New password has too many repeating characters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o gymeriadau ailadroddus</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_CantMatchUser" modifyTime="2018-11-19T14:57:04Z">
+    <value>Unable to find user name.  Please try again.</value>
+    <value locale="cy">Methu â chanfod enw defnyddiwr. Ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_BadCurrentPassword" modifyTime="2018-11-19T14:56:31Z">
+    <value>Current password is incorrect, please try again.</value>
+    <value locale="cy">Cyfrinair presennol yn anghywir, ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Unlock_Failure" modifyTime="2018-11-19T15:18:41Z">
+    <value>An error occurred while unlocking your account.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth ddatgloi'ch cyfrif. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigFormatError" modifyTime="2018-11-19T14:58:37Z">
+    <value>Configuration format error:  %1%</value>
+    <value locale="cy">Gwall fformat ffurfweddu: %1%</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyLower" modifyTime="2018-11-19T15:43:00Z">
+    <value>New password has too many lower case letters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o lythrennau bach</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_UserIntruder" modifyTime="2018-11-19T15:22:36Z">
+    <value>Maximum login attempts for your userID have been exceeded.  Try again later.</value>
+    <value locale="cy">Rydych wedi mynd dros uchafswm nifer y cynigion mewngofnodi ar gyfer eich enw defnyddiwr. Ceisiwch eto nes ymlaen.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Clearing_Responses" modifyTime="2018-11-19T14:58:20Z">
+    <value>An error occurred during the clearing of the response questions.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth glirio'r cwestiynau ymateb. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_CaptchaAPIError" modifyTime="2018-11-19T14:57:13Z">
+    <value>An error occurred while validating CAPTCHA response.  Please close your browser and try again.  If this error occurs repeatedly contact your help desk.</value>
+    <value locale="cy">Mae gwall wedi codi wrth wirio ymateb captcha. Caewch eich porwr a cheisio eto. Os yw'r gwall hwn yn codi dro ar ôl tro cysylltwch â'ch desg gymorth.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_TokenIncorrect" modifyTime="2018-11-19T15:16:08Z">
+    <value>Incorrect code, please try again.</value>
+    <value locale="cy">Cod anghywir, ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_DoesNotMatch" modifyTime="2018-11-19T15:32:14Z">
+    <value>Passwords do not match</value>
+    <value locale="cy">Nid yw'r cyfrineiriau'n cyfateb</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NewPasswordRequired" modifyTime="2018-11-19T15:38:19Z">
+    <value>A new password is required before you may continue.</value>
+    <value locale="cy">Mae angen cyfrinair newydd cyn y gallwch barhau.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldRequired" modifyTime="2018-11-19T15:00:39Z">
+    <value>%1% is required</value>
+    <value locale="cy">Mae %1% yn ofynnol</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyNonAlphaSpecial" modifyTime="2018-11-19T15:43:24Z">
+    <value>New password has too many symbol (non alpha-numeric) characters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o gymeriadau symbol (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyNonAlpha" modifyTime="2018-11-19T15:43:16Z">
+    <value>New password has too many non-letter characters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o gymeriadau nad ydynt yn llythrennau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooLong" modifyTime="2018-11-19T15:42:40Z">
+    <value>New password is too long</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn rhy hir</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooWeak" modifyTime="2018-11-19T15:44:45Z">
+    <value>Password is too weak.  Try adding more numbers, symbols or mixed case letters.</value>
+    <value locale="cy">Mae'r cyfrinair yn rhy wan. Ceisiwch ychwanegu rhagor o rifau, symbolau neu gymysgedd o lythrennau o faint gwahanol.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyUpper" modifyTime="2018-11-19T15:44:10Z">
+    <value>New password has too many upper case letters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o lythrennau mawr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_NoChallenges" modifyTime="2018-11-19T15:08:52Z">
+    <value>No challenges have been configured.</value>
+    <value locale="cy">Nid oes unrhyw heriau wedi'u ffurfweddu.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_InvalidConfig" modifyTime="2018-11-19T15:01:46Z">
+    <value>The configuration is invalid or corrupt.  Please correct the error, or remove the configuration file.</value>
+    <value locale="cy">Mae'r ffurfweddiad yn annilys neu'n llwgr. Cywirwch y gwall, neu gael gwared ar y ffeil ffurfweddu.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_MissingParameter" modifyTime="2018-11-19T15:03:01Z">
+    <value>A required parameter is missing.</value>
+    <value locale="cy">Mae paramedr gofynnol yn eisiau.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_App_Unavailable" modifyTime="2018-11-19T15:10:17Z">
+    <value>The application is unavailable or is restarting.  If this error occurs repeatedly please contact your help desk.</value>
+    <value locale="cy">Nid yw'r cymhwysiad ar gael neu mae'n ailddechrau. Os yw'r gwall hwn yn codi dro ar ôl tro cysylltwch â'ch desg gymorth.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_MissingRandomResponse" modifyTime="2018-11-19T15:03:08Z">
+    <value>Please add an additional random response.</value>
+    <value locale="cy">Rhowch ymateb ychwanegol ar hap.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_SameAsOld" modifyTime="2018-11-19T15:42:33Z">
+    <value>New password is the same as the current password</value>
+    <value locale="cy">Mae'r cyfrinair newydd yr un peth â'r cyfrinair presennol</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_InvalidSecurityKey" modifyTime="2018-11-19T15:02:40Z">
+    <value>Security Key is missing or invalid.</value>
+    <value locale="cy">Mae'r allwedd diogelwch yn eisiau neu mae'n annilys.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldTooLong" modifyTime="2018-11-19T15:00:44Z">
+    <value>%1% is too long</value>
+    <value locale="cy">Mae %1% yn rhy hir</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigSaveSuccess" modifyTime="2018-11-19T14:59:01Z">
+    <value>Configuration saved successfully.  Application restart has been requested.  The application may be unavailable while restarting.  If the restart request fails you may need to restart the application server manually.</value>
+    <value locale="cy">Ffurfweddiad wedi'i gadw'n llwyddiannus. Gwnaed cais i ailddechrau'r cymhwysiad. Efallai na fydd y cymhwysiad ar gael wrth ailddechrau. Os yw'r cais i ailddechrau'n methu efallai y bydd rhaid i chi ailddechrau'r gweinydd â llaw.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_SessionIntruder" modifyTime="2018-11-19T15:14:04Z">
+    <value>Maximum login attempts for this session have been exceeded.  Try again later.</value>
+    <value locale="cy">Rydych wedi mynd dros uchafswm nifer y cynigion mewngofnodi ar gyfer y sesiwn hon.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Writing_Responses" modifyTime="2018-11-19T15:30:59Z">
+    <value>An error occurred during the save of your response questions.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth gadw'ch ymatebion i'r cwestiynau. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_MissingConfirm" modifyTime="2018-11-19T15:38:11Z">
+    <value>Password meets requirements, please type confirmation password</value>
+    <value locale="cy">Mae'r cyfrinair yn ateb y gofynion, teipiwch y cyfrinair cadarnhau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughUnique" modifyTime="2018-11-19T15:40:53Z">
+    <value>New password does not have enough unique characters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o gymeriadau unigryw</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Response_Duplicate" modifyTime="2018-11-19T15:11:14Z">
+    <value>The response for question "%1%" can not be the same as another response</value>
+    <value locale="cy">Nid yw'r ymateb i gwestiwn "%1%" yn gallu bod yr un peth ag ymateb arall</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Missing_Challenge_Text" modifyTime="2018-11-19T15:03:59Z">
+    <value>Missing text for a user supplied question</value>
+    <value locale="cy">Testun yn eisiau ar gyfer cwestiwn a ddarparwyd gan y defnyddiwr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_TokenExpired" modifyTime="2018-11-19T15:15:58Z">
+    <value>The token you have entered is expired and is no longer valid.  Please try again.</value>
+    <value locale="cy">Mae'r tocyn rydych wedi'i roi wedi dod i ben ac nid yw'n ddilys mwyach. Ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_LocalDB_Unavailable" modifyTime="2018-11-19T15:10:00Z">
+    <value>LocalDB Unavailable.  Please contact your administrator.</value>
+    <value locale="cy">Nid yw'r DB lleol ar gael. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_SecureRequestRequired" modifyTime="2018-11-19T15:13:25Z">
+    <value>Non-secure (HTTP) connections are not permitted to this system.  Please try again using a secure (HTTPS) connection.</value>
+    <value locale="cy">Ni chaniateir cysylltau (HTTP) anniogel i'r system hon. Ceisiwch eto gan ddefnyddio cyswllt (HTTPS) diogel.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ActivationValidationFailed" modifyTime="2018-11-19T14:54:40Z">
+    <value>One or more values are not correct.</value>
+    <value locale="cy">Mae un neu fwy o'r gwerthoedd yn anghywir.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_NewUser_Failure" modifyTime="2018-11-19T15:08:41Z">
+    <value>An error occurred while creating your new user account.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth greu'ch cyfrif defnyddiwr newydd. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_SameAsAttr" modifyTime="2018-11-19T15:42:21Z">
+    <value>New password is too obvious</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn rhy amlwg</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_Expired" modifyTime="2018-11-19T15:32:22Z">
+    <value>The password is expired.</value>
+    <value locale="cy">Mae'r cyfrinair wedi dod i ben.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_CustomError" modifyTime="2018-11-19T15:32:02Z">
+    <value>New password does not meet rule requirements</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn diwallu gofynion rheolau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Multi_Username" modifyTime="2018-11-19T15:04:18Z">
+    <value>Multiple users match the given user name "%1%". Please refine your search.</value>
+    <value locale="cy">"Mae defnyddwyr amryfal yn cyfateb â'r enw defnyddiwr a roddwyd ""%1%"". mireiniwch eich chwiliad."</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldRegexNoMatch" modifyTime="2018-11-19T15:00:34Z">
+    <value>%1% is not the correct format</value>
+    <value locale="cy">Nid yw %1% yn fformat cywir</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_LastIsNumeric" modifyTime="2018-11-19T15:36:58Z">
+    <value>The last character must not be numeric</value>
+    <value locale="cy">Ni ddylai'r cymeriad olaf fod yn rhif</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_TooManyThreads" modifyTime="2018-11-19T15:17:37Z">
+    <value>Maximum thread count limit exceeded, please try again later</value>
+    <value locale="cy">Rydych wedi mynd dros uchafswm y cyfrif edafedd, ceisiwch eto nes ymlaen</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_BadPassword" modifyTime="2018-11-19T15:32:00Z">
+    <value>New password does not meet rule requirements</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn diwallu gofynion rheolau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_SecurityViolation" modifyTime="2018-11-19T15:13:34Z">
+    <value>A security violation has occurred.  Please try again later.</value>
+    <value locale="cy">Mae toriad diogelwch wedi digwydd. Ceisiwch eto nes ymlaen.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyAlpha" modifyTime="2018-11-19T15:42:49Z">
+    <value>New password has too many letters</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o lythrennau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldNotANumber" modifyTime="2018-11-19T15:00:27Z">
+    <value>%1% must be a number</value>
+    <value locale="cy">Rhaid i %1% fod yn rhif</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ActivateUserNoQueryMatch" modifyTime="2018-11-19T14:32:48Z">
+    <value>Your user account is not eligible for activation.</value>
+    <value locale="cy">Nid yw'ch cyfrif defnyddiwr yn gymwys i'w actifadu.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_HistoryFull" modifyTime="2018-11-19T15:32:48Z">
+    <value>New password history is full</value>
+    <value locale="cy">Mae'r hanes cyfrineiriau newydd yn llawn</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_PreviouslyUsed" modifyTime="2018-11-19T15:41:09Z">
+    <value>New password has been used previously</value>
+    <value locale="cy">Mae'r cyfrinair newydd wedi cael ei ddefnyddio o'r blaen</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldDuplicate" modifyTime="2018-11-19T15:00:17Z">
+    <value>%1% is already used, please use a different value</value>
+    <value locale="cy">"Mae %1% eisoes wedi'i ddefnyddio, defnyddiwch werth gwahanol"</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigLdapSuccess" modifyTime="2018-11-19T14:58:51Z">
+    <value>Successfully connected to LDAP directory server</value>
+    <value locale="cy">Wedi cysylltu'n llwyddiannus â gweinydd cyfeiriadur LDAP.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughAlpha" modifyTime="2018-11-19T15:39:51Z">
+    <value>New password does not have enough letters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o lythrennau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldBadConfirm" modifyTime="2018-11-19T15:00:11Z">
+    <value>%1% fields do not match</value>
+    <value locale="cy">Nid yw %1% maes yn cyd-fynd</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_TokenMissingContact" modifyTime="2018-11-19T15:16:56Z">
+    <value>There is no contact information available for your account.  Please contact your administrator.</value>
+    <value locale="cy">Nid oes gwybodaeth gyswllt ar gael ar gyfer eich cyfrif. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Update_Attrs_Failure" modifyTime="2018-11-19T15:21:52Z">
+    <value>An error occurred while saving your profile information.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth gadw eich gwybodaeth proffil. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_CertificateError" modifyTime="2018-11-19T14:57:22Z">
+    <value>A certificate error has been encountered: %1%.</value>
+    <value locale="cy">Mae gwall tystysgrif wedi codi: %1%.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Response_TooShort" modifyTime="2018-11-19T15:12:42Z">
+    <value>The response for question "%1%" is too short</value>
+    <value locale="cy">Mae'r ymateb i gwestiwn "%1%" yn rhy fyr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ConfigLdapFailure" modifyTime="2018-11-19T14:58:43Z">
+    <value>Unable to connect to LDAP directory server.</value>
+    <value locale="cy">Methu â chysylltu â gweinydd cyfeiriadur LDAP.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ServiceNotAvailable" modifyTime="2018-11-19T15:13:45Z">
+    <value>Service is not enabled.</value>
+    <value locale="cy">Nid yw'r gwasanaeth wedi'i alluogi.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Response_Wordlist" modifyTime="2018-11-19T15:13:04Z">
+    <value>The response for question "%1%" is too commonly used</value>
+    <value locale="cy">Mae'r ymateb i gwestiwn "%1%" yn cael ei ddefnyddio'n rhy gyffredin</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_UnknownValidation" modifyTime="2018-11-19T15:44:52Z">
+    <value>New password does not meet requirements.  Please try using a different password.</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn ateb y gofynion. Ceisiwch eto gan ddefnyddio cyfrinair gwahanol.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_FieldInvalidEmail" modifyTime="2018-11-19T15:00:21Z">
+    <value>%1% is not a valid email address</value>
+    <value locale="cy">Nid yw %1% yn gyfeiriad e-bost dilys</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_UserMisMatch" modifyTime="2018-11-19T15:28:14Z">
+    <value>Authentication error, please close your browser.</value>
+    <value locale="cy">Gwall dilysu, caewch eich porwr.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughUpper" modifyTime="2018-11-19T15:41:02Z">
+    <value>New password does not have enough upper case letters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o lythrennau mawr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_ChallengeInResponse" modifyTime="2018-11-19T14:57:35Z">
+    <value>The response for question "%1%" cannot contain part of the question text.</value>
+    <value locale="cy">Ni all yr ymateb ar gyfer cwestiwn ""%1%"" gynnwys rhan o destun y cwestiwn.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_UsingDisallowedValue" modifyTime="2018-11-19T15:44:58Z">
+    <value>New password is using a value that is not allowed</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn defnyddio gwerth nad yw'n cael ei ganiatáu</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_LdapIntruder" modifyTime="2018-11-19T15:22:28Z">
+    <value>Maximum login attempts for your userID have been exceeded.  Try again later.</value>
+    <value locale="cy">Rydych wedi mynd dros uchafswm nifer y cynigion mewngofnodi ar gyfer eich enw defnyddiwr. Ceisiwch eto nes ymlaen.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooShort" modifyTime="2018-11-19T15:44:17Z">
+    <value>New password is too short</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn rhy fyr</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_FirstIsNumeric" modifyTime="2018-11-19T15:32:32Z">
+    <value>The first character must not be numeric</value>
+    <value locale="cy">Ni ddylai'r cymeriad cyntaf fod yn rhif.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_WrongResponse" modifyTime="2018-11-19T15:31:41Z">
+    <value>One or more responses are not correct.  Please try again.</value>
+    <value locale="cy">Nid yw un neu ragor o'r ymatebion yn gywir. Ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Activation_Failure" modifyTime="2018-11-19T14:54:52Z">
+    <value>An error occurred while activating your account.  Please contact your administrator.</value>
+    <value locale="cy">Mae gwall wedi codi wrth actifadu'ch cyfrif. Cysylltwch â'ch gweinydd.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughNonAlpha" modifyTime="2018-11-19T15:40:13Z">
+    <value>New password does not have enough non-letter characters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o gymeriadau nad ydynt yn llythrennau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_RequiredMissing" modifyTime="2018-11-19T15:41:18Z">
+    <value>New password is missing a required character</value>
+    <value locale="cy">Mae eisiau cymeriad gofynnol yn y cyfrinair newydd</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyNumeric" modifyTime="2018-11-19T15:43:32Z">
+    <value>New password has too many numbers</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o rifau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_DB_Unavailable" modifyTime="2018-11-19T14:59:31Z">
+    <value>Database Unavailable.  If this error occurs repeatedly please contact your help desk.</value>
+    <value locale="cy">Nid yw'r gronfa ddata ar gael. Os yw'r gwall hwn yn codi dro ar ôl tro cysylltwch â'ch desg gymorth.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_TooManyOldChars" modifyTime="2018-11-19T15:43:38Z">
+    <value>New password contains too many characters from your old password</value>
+    <value locale="cy">Mae'r cyfrinair newydd yn cynnwys gormod o gymeriadau o'ch hen gyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Error_Activation" modifyTime="2018-11-19T14:33:47Z">
+    <value>Unable to activate your account using the information you have provided.  Please try again.</value>
+    <value locale="cy">Methu ag actifadu'ch cyfrif gan ddefnyddio'r wybodaeth a ddarparwyd gennych. Ceisiwch eto.</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughNum" modifyTime="2018-11-19T15:40:24Z">
+    <value>New password does not have enough numbers</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o rifau</value>
+</localeBundle>
+<localeBundle bundle="Error" key="Password_NotEnoughLower" modifyTime="2018-11-19T15:40:02Z">
+    <value>New password does not have enough lower case letters</value>
+    <value locale="cy">Nid yw'r cyfrinair newydd yn cynnwys digon o lythrennau bach</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinLength" modifyTime="2018-11-14T09:56:34Z">
+    <value>Must be at least %1% character long.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_RecoverPassword" modifyTime="2018-11-14T09:50:44Z">
+    <value>Recover Forgotten Password</value>
+    <value locale="cy">Adennill Cyfrinair Rydych wedi'i Anghofio</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxNumericPlural" modifyTime="2018-11-14T09:55:10Z">
+    <value>Can not include more than %1% numbers.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_FirstNumeric" modifyTime="2018-11-14T09:53:25Z">
+    <value>The first character can not be numeric.</value>
+    <value locale="cy">Ni all y cymeriad cyntaf fod yn rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinNumeric" modifyTime="2018-11-14T09:57:09Z">
+    <value>Must include at least %1% number.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinAlphaPlural" modifyTime="2018-11-14T09:56:26Z">
+    <value>Must include at least %1% letters.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_NewUserForm" modifyTime="2018-11-14T11:37:03Z">
+    <value>Your account is ready to be created.  Continue when ready.</value>
+    <value locale="cy">Mae'ch cyfrif yn barod i'w greu. Parhau pan fyddwch yn barod.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_CaseSensitive" modifyTime="2018-11-14T09:52:28Z">
+    <value>Password is case sensitive.</value>
+    <value locale="cy">Mae'r cyfrinair yn sensitif i faint llythrennau.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxRepeat" modifyTime="2018-11-14T09:55:25Z">
+    <value>Must not repeat any character more than %1% time.</value>
+    <value locale="cy">Ni ddylech ailadrodd unrhyw gymeriad fwy na(g) %1% (g)waith.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_OldCharPlural" modifyTime="2018-11-14T09:58:39Z">
+    <value>Can not have more than %1% characters from your current password.</value>
+    <value locale="cy">Ni all gynnwys fwy na(g) %1% cymeriad o'ch cyfrinair presennol.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_DisAllowedValues" modifyTime="2018-11-14T09:53:16Z">
+    <value>Must not include any of the following values: %1%</value>
+    <value locale="cy">Ni ddylai gynnwys unrhyw un o'r gwerthoedd canlynol: %1%</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxLowerPlural" modifyTime="2018-11-14T09:54:57Z">
+    <value>Can not include more than %1% lowercase letters.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren fach.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinLengthPlural" modifyTime="2018-11-14T09:56:40Z">
+    <value>Must be at least %1% characters long.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_ActivateUser" modifyTime="2018-11-14T11:35:00Z">
+    <value>Your user account has been successfully activated.  Be sure to complete the process, or you will not be able to access your account.</value>
+    <value locale="cy">Mae'ch cyfrif defnyddiwr wedi'i actifadu'n llwyddiannus. Cofiwch gwblhau'r broses, neu ni fyddwch yn gallu cael mynediad i'ch cyfrif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinLowerPlural" modifyTime="2018-11-14T09:56:59Z">
+    <value>Must have at least %1% lowercase letters.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren fach.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_LastSpecial" modifyTime="2018-11-14T09:54:07Z">
+    <value>The last character can not be a symbol (non letter or number).</value>
+    <value locale="cy">Ni all y cymeriad olaf fod yn symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinSpecial" modifyTime="2018-11-14T09:57:33Z">
+    <value>Must have at least %1% symbol (non letter or number) character.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_UpdateForm" modifyTime="2018-11-14T11:39:41Z">
+    <value>Your profile is ready to be updated.  Continue when ready.</value>
+    <value locale="cy">Mae'ch proffil yn barod i'w ddiweddaru. Parhau pan fyddwch yn barod.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_IntruderLockout" modifyTime="2018-11-14T09:50:29Z">
+    <value>Intruder Lockout</value>
+    <value locale="cy">Cloi Allan Tresmaswyr</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_CreateUser" modifyTime="2018-11-14T09:49:29Z">
+    <value>Create Account</value>
+    <value locale="cy">Creu Cyfrif</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_CreateUser" modifyTime="2018-11-14T11:36:23Z">
+    <value>Your new user account has been successfully created.</value>
+    <value locale="cy">Mae'ch cyfrif defnyddiwr newydd wedi'i greu'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxAlphaPlural" modifyTime="2018-11-14T09:54:24Z">
+    <value>Can not include more than %1% letters.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxSpecial" modifyTime="2018-11-14T09:55:54Z">
+    <value>Can not include more than %1% symbol (non letter or number) character.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% cymeriad symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_HelpdeskClearResponses" modifyTime="2018-11-14T09:49:50Z">
+    <value>Help Desk Clear Responses</value>
+    <value locale="cy">Desg Gymorth Clirio Ymatebion</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_SetupResponses" modifyTime="2018-11-14T09:50:50Z">
+    <value>Setup Password Responses</value>
+    <value locale="cy">Gosod Ymatebion Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxUpperPlural" modifyTime="2018-11-14T09:56:15Z">
+    <value>Can not include more than %1% uppercase letters.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren fawr.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxAlpha" modifyTime="2018-11-14T09:54:13Z">
+    <value>Can not include more than %1% letter.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxSeqRepeat" modifyTime="2018-11-14T09:55:37Z">
+    <value>Must not repeat any character sequentially more than %1% time.</value>
+    <value locale="cy">Ni ddylech ailadrodd unrhyw gymeriad yn olynol fwy na(g) %1% (g)waith.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_UniqueRequired" modifyTime="2018-11-14T11:33:45Z">
+    <value>New password may not have been used previously.</value>
+    <value locale="cy">Ni allwch ddewis cyfrinair a ddefnyddiwyd o'r blaen.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_CreateGuest" modifyTime="2018-11-14T11:36:05Z">
+    <value>The new guest account has been successfully created.  The guest user will receive a notification if the email address has been entered.  The guest account may still need activation.</value>
+    <value locale="cy">Mae'r cyfrif gwadd newydd wedi'i greu'n llwyddiannus. Bydd y defnyddiwr gwadd yn cael ei hysbysu os yw wedi rhoi'r cyfeiriad e-bost. Efallai y bydd angen actifadu'r cyfrif o hyd.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_PasswordReset" modifyTime="2018-11-14T11:37:37Z">
+    <value>Password for %1% has been set successfully.</value>
+    <value locale="cy">Mae'r cyfrinair ar gyfer %1% wedi'i osod yn llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_PasswordChange" modifyTime="2018-11-14T11:37:26Z">
+    <value>The password has been changed successfully.</value>
+    <value locale="cy">Mae'ch cyfrinair wedi ei newid yn llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxNumeric" modifyTime="2018-11-14T09:55:05Z">
+    <value>Can not include more than %1% number.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_AllowSpecial" modifyTime="2018-11-14T09:52:06Z">
+    <value>Must not include any symbol (non letter or number) characters.</value>
+    <value locale="cy">Ni ddylai gynnwys unrhyw gymeriadau symbol (ddim yn llythyren na rhif)</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_Unknown" modifyTime="2018-11-14T11:39:16Z">
+    <value>The operation has been successfully completed.</value>
+    <value locale="cy">Mae'r gweithrediad wedi'i gwblhau'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_UpdateProfile" modifyTime="2018-11-14T11:40:21Z">
+    <value>Your user information has been successfully updated.</value>
+    <value locale="cy">Mae'ch gwybodaeth defnyddiwr wedi'i diweddaru'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_ConfigFileUpload" modifyTime="2018-11-14T11:35:41Z">
+    <value>The configuration file has been successfully uploaded.</value>
+    <value locale="cy">Mae'r ffeil ffurfweddu wedi'i lanlwytho'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_DisAllowedAttributes" modifyTime="2018-11-14T09:52:38Z">
+    <value>Must not include part of your name or user name.</value>
+    <value locale="cy">Ni ddylai gynnwys rhan o'ch enw neu'ch enw defnyddiwr.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinAlpha" modifyTime="2018-11-14T09:56:22Z">
+    <value>Must include at least %1% letter.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxSeqRepeatPlural" modifyTime="2018-11-14T09:55:42Z">
+    <value>Must not repeat any character sequentially more than %1% times.</value>
+    <value locale="cy">Ni ddylech ailadrodd unrhyw gymeriad yn olynol fwy na(g) %1% (g)waith.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxSpecialPlural" modifyTime="2018-11-14T09:56:01Z">
+    <value>Can not include more than %1% symbol (non letter or number) characters.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% cymeriad symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinUpperPlural" modifyTime="2018-11-14T09:57:58Z">
+    <value>Must have at least %1% uppercase letters.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren fawr.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_UpdateProfile" modifyTime="2018-11-14T09:50:59Z">
+    <value>Update Attributes</value>
+    <value locale="cy">Diweddaru Priodoleddau</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinNumericPlural" modifyTime="2018-11-14T09:57:13Z">
+    <value>Must include at least %1% numbers.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinUpper" modifyTime="2018-11-14T09:57:54Z">
+    <value>Must have at least %1% uppercase letter.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren fawr.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_ADComplexity" modifyTime="2018-11-14T09:51:21Z">
+    <value>Must have at least three types of the following characters: &lt;ul&gt;&lt;li&gt;Uppercase (A-Z)&lt;/li&gt;&lt;li&gt;Lowercase (a-z)&lt;/li&gt;&lt;li&gt;Number (0-9)&lt;/li&gt;&lt;li&gt;Symbol (!, #, $, etc.)&lt;/li&gt;&lt;/ul&gt;</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf dri math o'r cymeriadau canlynol: &lt;ul&gt;&lt;li&gt;Llythyren fawr (A-Z)&lt;/li&gt;&lt;li&gt;Llythyren fach (a-z)&lt;/li&gt;&lt;li&gt;Rhif (0-9)&lt;/li&gt;&lt;li&gt;Symbol (!, #, $, ac ati)&lt;/li&gt;&lt;/ul&gt;</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_ActivateUser" modifyTime="2018-11-14T09:49:09Z">
+    <value>Activate Account</value>
+    <value locale="cy">Actifadu Cyfrif</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxLength" modifyTime="2018-11-14T09:54:32Z">
+    <value>Must be no more than %1% character long.</value>
+    <value locale="cy">Ni ddylai gynnwys mwy na(g) %1% cymeriad.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxLower" modifyTime="2018-11-14T09:54:50Z">
+    <value>Can not include more than %1% lowercase letter.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren fach.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxRepeatPlural" modifyTime="2018-11-14T09:55:29Z">
+    <value>Must not repeat any character more than %1% times.</value>
+    <value locale="cy">Ni ddylech ailadrodd unrhyw gymeriad fwy na(g) %1% (g)waith.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_ClearResponse" modifyTime="2018-11-14T11:35:29Z">
+    <value>Your secret questions and answers have been successfully removed.</value>
+    <value locale="cy">Mae'ch cwestiynau a'ch atebion cyfrinachol wedi'u dileu'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_RequiredChars" modifyTime="2018-11-14T11:33:28Z">
+    <value>Must include at least one each of the following characters:</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf un o'r cymeriadau canlynol:</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinLower" modifyTime="2018-11-14T09:56:52Z">
+    <value>Must have at least %1% lowercase letter.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% llythyren fach.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_NotCaseSensitive" modifyTime="2018-11-14T09:58:17Z">
+    <value>Password is not case sensitive.</value>
+    <value locale="cy">Nid yw'r cyfrinair yn sensitif i faint llythrennau.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_AllowNumeric" modifyTime="2018-11-14T09:51:57Z">
+    <value>Must not include any numeric characters.</value>
+    <value locale="cy">Ni ddylai gynnwys unrhyw gymeriadau rhifyddol.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinUniquePlural" modifyTime="2018-11-14T09:57:48Z">
+    <value>Must have at least %1% unique characters.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad unigryw.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxUpper" modifyTime="2018-11-14T09:56:09Z">
+    <value>Can not include more than %1% uppercase letter.</value>
+    <value locale="cy">Ni all gynnwys mwy na(g) %1% llythyren fawr.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_Authenticate" modifyTime="2018-11-14T09:49:16Z">
+    <value>Authentication</value>
+    <value locale="cy">Dilysu</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_OldChar" modifyTime="2018-11-14T09:58:34Z">
+    <value>Can not have more than %1% character from your current password.</value>
+    <value locale="cy">Ni all gynnwys fwy na(g) %1% cymeriad o'ch cyfrinair presennol.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_HelpdeskUnlockPassword" modifyTime="2018-11-14T09:50:07Z">
+    <value>Help Desk Unlock Password</value>
+    <value locale="cy">Desg Gymorth Datgloi Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinSpecialPlural" modifyTime="2018-11-14T09:57:38Z">
+    <value>Must have at least %1% symbol (non letter or number) characters.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_FirstSpecial" modifyTime="2018-11-14T09:53:35Z">
+    <value>The first character can not be a symbol (non letter or number).</value>
+    <value locale="cy">Ni all y cymeriad cyntaf fod yn symbol (ddim yn llythyren na rhif).</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_PasswordSend" modifyTime="2018-11-14T11:37:48Z">
+    <value>Your new password has been sent to %1%.  Please close this window and then login using your new password.</value>
+    <value locale="cy">Mae'ch cyfrinair newydd wedi cael ei anfon i %1%. Caewch y ffenestr hon a mewngofnodi gan ddefnyddio'ch cyfrinair newydd.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_UnlockAccount" modifyTime="2018-11-14T11:39:22Z">
+    <value>Your account has been unlocked.</value>
+    <value locale="cy">Mae'ch cyfrif wedi'i ddatgloi.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_ResponsesMeetRules" modifyTime="2018-11-14T11:38:05Z">
+    <value>Your answers meet the requirements.  Click Save Answers when ready.</value>
+    <value locale="cy">Mae'ch ymatebion yn ateb y gofynion. Cliciwch 'Cadw Ymatebion' pan fyddwch yn barod.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_Action" modifyTime="2018-11-14T11:34:36Z">
+    <value>The action %1% has completed successfully.</value>
+    <value locale="cy">Mae'r weithred %1% wedi'i chwblhau'n llwyddiannus.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_LastNumeric" modifyTime="2018-11-14T09:53:49Z">
+    <value>The last character can not be numeric.</value>
+    <value locale="cy">Ni all y cymeriad olaf fod yn rhif.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_SetupResponse" modifyTime="2018-11-14T11:38:24Z">
+    <value>Thank you.  Your secret questions and answers have been successfully saved.  If you ever forget your password, you can use the answers to these questions to reset your password.</value>
+    <value locale="cy">Mae'ch cwestiynau a'ch atebion cyfrinachol wedi'u cadw'n llwyddiannus. Os ydych yn anghofio'ch cyfrinair o gwbl, gallwch ddefnyddio'r atebion i'r cwestiynau hyn i ailosod eich cyfrinair.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinUnique" modifyTime="2018-11-14T09:57:44Z">
+    <value>Must have at least %1% unique character.</value>
+    <value locale="cy">Rhaid iddo gynnwys o leiaf %1% cymeriad unigryw.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_HelpdeskSetPassword" modifyTime="2018-11-14T09:49:59Z">
+    <value>Help Desk Set Password</value>
+    <value locale="cy">Desg Gymorth Gosod Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MaxLengthPlural" modifyTime="2018-11-14T09:54:42Z">
+    <value>Must be no more than %1% characters long.</value>
+    <value locale="cy">Ni ddylai gynnwys mwy na(g) %1% cymeriad.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="EventLog_ChangePassword" modifyTime="2018-11-14T09:49:21Z">
+    <value>Change Password</value>
+    <value locale="cy">Newid Cyfrinair</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_MinimumFrequency" modifyTime="2018-11-14T09:58:10Z">
+    <value>Can be changed no more often then once every %1%.</value>
+    <value locale="cy">Gellir ei newid ddim yn fwy aml nag unwaith bob %1%.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Success_UpdateGuest" modifyTime="2018-11-14T11:40:12Z">
+    <value>The guest account has been updated successfully.  The guest user will receive a notification if the email address has been entered.</value>
+    <value locale="cy">Mae'r cyfrif gwadd wedi'i ddiweddaru'n llwyddiannus. Bydd y defnyddiwr gwadd yn cael ei hysbysu os yw wedi rhoi cyfeiriad e-bost.</value>
+</localeBundle>
+<localeBundle bundle="Message" key="Requirement_WordList" modifyTime="2018-11-14T11:33:58Z">
+    <value>Must not include a common word or commonly used sequence of characters.</value>
+    <value locale="cy">Ni ddylai gynnwys gair cyffredin neu ddilyniant o gymeriadau a ddefnyddir yn gyffredin.</value>
+</localeBundle>
